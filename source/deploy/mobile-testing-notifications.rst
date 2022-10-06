@@ -18,12 +18,12 @@ Then use the following instructions to confirm push notifications are working pr
 
 3. Confirm push notifications are enabled for “Account A”.
 
-  A. Go to the notification settings menu in the mobile app.
+  a. Go to the notification settings menu in the mobile app.
 
   .. image:: ../images/mobile_notification_settings.png
     :alt: Ensure push notifications are enabled by selecting the Settings icon located in the top-right corner of the screen.
 
-  B. Check that the mobile push notifications are set to send.
+  b. Check that the mobile push notifications are set to send.
 
   .. image:: ../images/mobile_push_send_for.png
     :alt: Select the type of activity you want push notifications for by going to Settings > Notifications > Mobile Push Notifications.
