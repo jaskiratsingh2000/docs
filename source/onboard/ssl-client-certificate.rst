@@ -119,8 +119,8 @@ You should see the Mattermost login page. If you see:
 
 9. Import the generated ``.p12`` file in step 7 into your key chain. In the Chrome browser on macOS:
 
-  1. Go to **Settings > Advanced > Privacy and security > Manage certificates**. This opens the Keychain Access app.
-  2. Go to **File > Import Items** and select the ``mmuser-mattermost.p12`` file.
+  a. Go to **Settings > Advanced > Privacy and security > Manage certificates**. This opens the Keychain Access app.
+  b. Go to **File > Import Items** and select the ``mmuser-mattermost.p12`` file.
 
 10. Go to ``https://example.mattermost.com``. You should see a popup for the client certificate request.
 
